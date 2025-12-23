@@ -1,1 +1,1 @@
-
+An IoT-based firefighting smart car using Arduino and ESP8266 to remotely detect flames, scan environments with a servo motor, trigger safety alerts, and enable real-time control via a cloud-based Flask dashboard and MQTT communication.
